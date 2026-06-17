@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "SMOKIE774.aternos.me",
+    "port": 38738,
     "version": "1.21.1"
   },
   "position": {
@@ -16,7 +16,7 @@
     "y": 100,
     "z": 0
   },
-  "utils": {
+  "utils": { 
     "auto-auth": {
       "enabled": true,
       "password": "Perzuu"
